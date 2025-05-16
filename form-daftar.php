@@ -12,7 +12,7 @@
     <form action="proses-pendaftaran.php" method="POST">
 
         <fieldset>
-
+    
         <p>
             <label for="nama">Nama: </label>
             <input type="text" name="nama" placeholder="nama lengkap" />
